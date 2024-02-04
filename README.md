@@ -2,6 +2,8 @@
 
 Welcome to the ArcBrowser Replica project! This Python application aims to replicate the ArcBrowser web browser, which is exclusively available on macOS. Please note that the project is not yet complete, and certain features are still under development.
 
+![Game Screenshot](screenshot.png)
+
 ## Getting Started
 
 1. Ensure you have Python installed on your system.
